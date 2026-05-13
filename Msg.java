@@ -4,6 +4,4 @@ public class Msg {
 		system.out.println("Addition is:" +(a+b));
 		system.out.println("Subtraction is:" +(a-b));
 		system.out.println("Multiplicaion is:" +(a*b));
-		system.out.println("Division is:" +(a-b));
 	}
-}
